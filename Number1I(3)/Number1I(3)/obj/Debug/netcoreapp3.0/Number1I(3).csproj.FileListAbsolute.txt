@@ -1,0 +1,22 @@
+C:\Users\USER\source\repos\Number1I(3)\Number1I(3)\bin\Debug\netcoreapp3.0\Number1I(3).exe
+C:\Users\USER\source\repos\Number1I(3)\Number1I(3)\bin\Debug\netcoreapp3.0\Number1I(3).deps.json
+C:\Users\USER\source\repos\Number1I(3)\Number1I(3)\bin\Debug\netcoreapp3.0\Number1I(3).runtimeconfig.json
+C:\Users\USER\source\repos\Number1I(3)\Number1I(3)\bin\Debug\netcoreapp3.0\Number1I(3).runtimeconfig.dev.json
+C:\Users\USER\source\repos\Number1I(3)\Number1I(3)\bin\Debug\netcoreapp3.0\Number1I(3).dll
+C:\Users\USER\source\repos\Number1I(3)\Number1I(3)\bin\Debug\netcoreapp3.0\Number1I(3).pdb
+C:\Users\USER\source\repos\Number1I(3)\Number1I(3)\obj\Debug\netcoreapp3.0\Number1I(3).csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Number1I(3)\Number1I(3)\obj\Debug\netcoreapp3.0\Number1I(3).AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Number1I(3)\Number1I(3)\obj\Debug\netcoreapp3.0\Number1I(3).AssemblyInfo.cs
+C:\Users\USER\source\repos\Number1I(3)\Number1I(3)\obj\Debug\netcoreapp3.0\Number1I(3).dll
+C:\Users\USER\source\repos\Number1I(3)\Number1I(3)\obj\Debug\netcoreapp3.0\Number1I(3).pdb
+C:\Users\USER\Desktop\Lab 3\Number1I(3)\Number1I(3)\bin\Debug\netcoreapp3.0\Number1I(3).exe
+C:\Users\USER\Desktop\Lab 3\Number1I(3)\Number1I(3)\bin\Debug\netcoreapp3.0\Number1I(3).deps.json
+C:\Users\USER\Desktop\Lab 3\Number1I(3)\Number1I(3)\bin\Debug\netcoreapp3.0\Number1I(3).runtimeconfig.json
+C:\Users\USER\Desktop\Lab 3\Number1I(3)\Number1I(3)\bin\Debug\netcoreapp3.0\Number1I(3).runtimeconfig.dev.json
+C:\Users\USER\Desktop\Lab 3\Number1I(3)\Number1I(3)\bin\Debug\netcoreapp3.0\Number1I(3).dll
+C:\Users\USER\Desktop\Lab 3\Number1I(3)\Number1I(3)\bin\Debug\netcoreapp3.0\Number1I(3).pdb
+C:\Users\USER\Desktop\Lab 3\Number1I(3)\Number1I(3)\obj\Debug\netcoreapp3.0\Number1I(3).csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Lab 3\Number1I(3)\Number1I(3)\obj\Debug\netcoreapp3.0\Number1I(3).AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Lab 3\Number1I(3)\Number1I(3)\obj\Debug\netcoreapp3.0\Number1I(3).AssemblyInfo.cs
+C:\Users\USER\Desktop\Lab 3\Number1I(3)\Number1I(3)\obj\Debug\netcoreapp3.0\Number1I(3).dll
+C:\Users\USER\Desktop\Lab 3\Number1I(3)\Number1I(3)\obj\Debug\netcoreapp3.0\Number1I(3).pdb
