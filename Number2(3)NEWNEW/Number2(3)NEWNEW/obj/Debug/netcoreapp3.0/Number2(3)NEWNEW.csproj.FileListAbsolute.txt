@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\Number2(3)NEWNEW\Number2(3)NEWNEW\bin\Debug\netcoreapp3.0\Number2(3)NEWNEW.exe
+C:\Users\USER\source\repos\Number2(3)NEWNEW\Number2(3)NEWNEW\bin\Debug\netcoreapp3.0\Number2(3)NEWNEW.deps.json
+C:\Users\USER\source\repos\Number2(3)NEWNEW\Number2(3)NEWNEW\bin\Debug\netcoreapp3.0\Number2(3)NEWNEW.runtimeconfig.json
+C:\Users\USER\source\repos\Number2(3)NEWNEW\Number2(3)NEWNEW\bin\Debug\netcoreapp3.0\Number2(3)NEWNEW.runtimeconfig.dev.json
+C:\Users\USER\source\repos\Number2(3)NEWNEW\Number2(3)NEWNEW\bin\Debug\netcoreapp3.0\Number2(3)NEWNEW.dll
+C:\Users\USER\source\repos\Number2(3)NEWNEW\Number2(3)NEWNEW\bin\Debug\netcoreapp3.0\Number2(3)NEWNEW.pdb
+C:\Users\USER\source\repos\Number2(3)NEWNEW\Number2(3)NEWNEW\obj\Debug\netcoreapp3.0\Number2(3)NEWNEW.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Number2(3)NEWNEW\Number2(3)NEWNEW\obj\Debug\netcoreapp3.0\Number2(3)NEWNEW.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Number2(3)NEWNEW\Number2(3)NEWNEW\obj\Debug\netcoreapp3.0\Number2(3)NEWNEW.AssemblyInfo.cs
+C:\Users\USER\source\repos\Number2(3)NEWNEW\Number2(3)NEWNEW\obj\Debug\netcoreapp3.0\Number2(3)NEWNEW.dll
+C:\Users\USER\source\repos\Number2(3)NEWNEW\Number2(3)NEWNEW\obj\Debug\netcoreapp3.0\Number2(3)NEWNEW.pdb
